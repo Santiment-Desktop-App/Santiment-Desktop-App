@@ -28,7 +28,7 @@ Santiment is used by a wide spectrum of market participants, from retail traders
 
 ---
 
-![Santiment Charts](https://santiment.net/static/santiment-afb77da9af255675ade9640dfd5c6381.png)
+![Santiment Charts](https://pbs.twimg.com/media/FKabganVgAEgMHz.jpg:large)
 
 ---
 
